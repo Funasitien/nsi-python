@@ -1,5 +1,8 @@
 # NSI Python _by DreamCloud_
+![Lines of code](https://img.shields.io/tokei/lines/github/Funasitien/nsi-python?style=for-the-badge)
+
 My ✨ Amazing ✨ work on all the python NSI projects.
+
 
 # List of all aviables projects
 
